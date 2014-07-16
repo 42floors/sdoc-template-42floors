@@ -1,5 +1,5 @@
-SDoc Template - 42Floors
-========================
+42Floors SDoc Template
+======================
 
 This contains the 42Floors [SDoc](https://github.com/voloko/sdoc) template for
 use in generating Ruby Documentaiton with [RDoc](http://docs.seattlerb.org/rdoc/).
