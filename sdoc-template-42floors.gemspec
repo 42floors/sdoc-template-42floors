@@ -4,6 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 Gem::Specification.new do |s|
   s.name        = "sdoc-template-42floors"
   s.version     = '0.1'
+  s.licenses    = ['MIT']
   s.authors     = ["Jon Bracy"]
   s.email       = ["jon@42floors.com"]
   s.homepage    = "https://github.com/42floors/sdoc-template-42floors"
