@@ -111,9 +111,9 @@ ol li
 .banner
 {
     background: #97B833;
-	color: #fff;
-    border-bottom: 1px solid #769028;
-    padding: 1em 2em 0.5em 2em;
+    color: #FFF;
+    border: 1px solid #769028;
+    padding: 1em;
 }
 .banner h1
 {

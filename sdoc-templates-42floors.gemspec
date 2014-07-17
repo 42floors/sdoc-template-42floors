@@ -3,11 +3,11 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "sdoc-templates-42floors"
-  s.version     = '0.2'
+  s.version     = '0.3'
   s.licenses    = ['MIT']
   s.authors     = ["Jon Bracy"]
   s.email       = ["jon@42floors.com"]
-  s.homepage    = "https://github.com/42floors/sdoc-template-42floors"
+  s.homepage    = "https://github.com/42floors/sdoc-templates-42floors"
   s.summary     = %q{42Floors SDoc template}
   s.description = %q{42Floors SDoc template for RDoc}
 
