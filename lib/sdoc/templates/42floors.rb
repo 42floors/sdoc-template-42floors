@@ -1,7 +1,1 @@
-$LOAD_PATH << File.expand_path(File.join(
-  File.dirname(__FILE__),
-  "..",
-  "..",
-  "..",
-  "template"
-))
+$LOAD_PATH << File.expand_path("../../../template", __FILE__)
