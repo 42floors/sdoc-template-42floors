@@ -8,6 +8,9 @@ Example Useage:
 ---------------
 
 ```ruby
+# ...
+require 'sdoc/templates/42floors'
+
 Rake::RDocTask.new do |rd|
   rd.main = 'README.rdoc'
   rd.title = 'My Documentation'
