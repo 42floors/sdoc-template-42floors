@@ -17,7 +17,9 @@
             <%= h file.name %>
         </h1>
         <ul class="files">
-            <% github = github_url(file.relative_name) if options.github %>
+            <%
+                github = github_url(file.relative_name) if options.github
+            %>
             <li>
                 <%= h file.relative_name %>
                 <% if github %>

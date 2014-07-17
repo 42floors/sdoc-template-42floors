@@ -130,7 +130,7 @@ ol li
 .banner h1 .type,
 .banner h1 .parent
 {
-    color: #ccc;
+    color: #CCC;
 }
 
 .banner ul
@@ -151,7 +151,7 @@ ol li
   color: #CCC;
 }
 
-pre 
+pre
 {
     margin-bottom: 1em;
 }
@@ -280,6 +280,13 @@ tt {
     margin: 0 0 0.5em 0;
     font-size: 1.2em;
     line-height: 1.25em;
+    position: relative;
+}
+
+.method .method-title a.permalink {
+  position: absolute;
+  font-size: 0.75em;
+  right: 0;
 }
 
 .method .sourcecode p.source-link {
